@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Expense</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="expense">
+        <item>id</item>
+        <item>name</item>
+        <item>expense_date</item>
+        <item>expense_type</item>
+        <item>amount</item>
+        <item>note</item>
+    </string-array>
+    <string-array name="expense_type">
+        <item>Select Expense Type</item>
+        <item>Food and Drinks</item>
+        <item>Clothing</item>
+        <item>Medical/Healthcare</item>
+        <item>Insurance</item>
+        <item>Personal</item>
+        <item>Debt</item>
+        <item>Education</item>
+        <item>Savings</item>
+        <item>Gifts/Donations</item>
+        <item>Entertainment</item>
+    </string-array>
+</resources>
